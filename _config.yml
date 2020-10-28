@@ -168,7 +168,7 @@ social:
     share: false
 
   - name: Blog
-    icon: Blog
+    icon: "/assets/blogger-4-16.png"
     username: "오리"
     url: "http://blog.naver.com/sinrakr"
     desc: Follow me on Vine
