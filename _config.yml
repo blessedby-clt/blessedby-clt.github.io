@@ -171,7 +171,7 @@ social:
     icon: "/assets/blogger-4-16.png"
     username: "오리"
     url: "http://blog.naver.com/sinrakr"
-    desc: Follow me on Vine
+    desc: 일상을 기록하는 블로그
     share: true
 
   - name: Reddit
