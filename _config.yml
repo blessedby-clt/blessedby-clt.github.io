@@ -167,12 +167,12 @@ social:
     desc: Follow me on Vimeo
     share: false
 
-  - name: Vine
-    icon: vine
-    username: ""
-    url: ""
+  - name: Blog
+    icon: Blog
+    username: "오리"
+    url: "http://blog.naver.com/sinrakr"
     desc: Follow me on Vine
-    share: false
+    share: true
 
   - name: Reddit
     icon: reddit
