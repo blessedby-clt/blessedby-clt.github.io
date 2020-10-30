@@ -5,14 +5,54 @@ permalink: /about/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
+![KakaoTalk_20201030_121849857](C:\Users\user1\Documents\카카오톡 받은 파일\KakaoTalk_20201030_121849857.jpg)
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+> ## About Me
 
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+
+
+* 7차 교육과정 피해자로, 미적분을 안 배우고 통계학과에 입학하여 기본기가 부족하다고 생각.
+
+* 그나마 학부 시절 응용학과(= R, SAS, 데이터마이닝 등) 보단 
+  통계학과(=수리통계) 느낌으로 커리큘럼을 구성했으나, 기본기 부족으로 현 시점에는 거의 휘발된 상태.
+
+* 나름 학점관리 빡세게 하며 치열한 인생을 살아왔으나, 연이은 취준실패로 공백기 발생
+  남들보다 사회 진출이 늦어진 김에, 하고 싶은 일(=데이터 분석)로 커리어를 쌓자고 결심.
+
+* IT 컨설팅 회사에서 빅데이터를 비롯한 이런저런 업무를 경험
+  이 당시에는 아는 건 없으면서 데이터 엔지니어링부터 머신러닝까지 모두 아우르는 사람이 되고 싶다는 허황된 꿈을 꾸고 있었음.
+
+* 이후, 소셜빅데이터 회사에서 1년간 근무.
+  수만건의 데이터를 직접 눈으로 골라내며, 데이터 전처리. (보고서도 쓰긴 씀!)
+
+* 이 무렵부터 ""좋은 보고서를 쓰는 데이터 분석가""가 되고 싶다는, 조금은 현실적인 목표로 정리되기 시작.
+
+* 지금은 게임회사에서 데이터를 들여다보며, 여전히 분석가의 꿈을 꾸고 있음
+
+  
+
+> ## 앞으로의 목표
+
+
+
+* 7차 교육과정으로 대충 넘겼던 기본기(=선형대수)를 다지고,
+* 통계학과 시절 드롭했던 시계열, 다변량 과목을 느즈막히 독학하고
+* R과 파이썬 pandas를 열심히 공부해서,
+* 이를 적용해서 좋은 보고서를 쓰는 훈련을 하는 것.
+* 지금은 범죄 관련 데이터에 관심이 있는 편임.
+
+#### 
+
+
+
+
+
+
+
+
+
+
+
+[]: 
