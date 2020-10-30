@@ -169,7 +169,7 @@ social:
 
   - name: Blog
     icon: homepage
-    username: ""
+    username: "블로그"
     url: "http://blog.naver.com/sinrakr"
     desc: 일상을 기록하는 블로그
     share: true
