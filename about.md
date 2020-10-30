@@ -5,7 +5,6 @@ permalink: /about/
 main_nav: true
 ---
 
-![KakaoTalk_20201030_121849857](C:\Users\user1\Documents\카카오톡 받은 파일\KakaoTalk_20201030_121849857.jpg)
 
 
 
@@ -43,16 +42,5 @@ main_nav: true
 * 이를 적용해서 좋은 보고서를 쓰는 훈련을 하는 것.
 * 지금은 범죄 관련 데이터에 관심이 있는 편임.
 
-#### 
 
 
-
-
-
-
-
-
-
-
-
-[]: 
